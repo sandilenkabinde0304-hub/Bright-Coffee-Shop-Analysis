@@ -21,4 +21,10 @@ As a newly appointed data analyst, my task is to analyse historical transaction 
  - Analyse time performance by calculating which time periods have the highest revenue.
  - Analyse time performance by calculating which time periods have the units sold.
  - Analysis of category performance by calculating which product categories with highest revenue.
- - Analysis of category performance by calculating which 
+ - Analysis of category performance by calculating and ranking which product categories have the most units sold.
+
+Project tools utilised:
+- Canva 
+- Databricks
+- Excel
+- Canva
